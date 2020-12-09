@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 133
+  controlID: 139
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 61
+  controlID: 15
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 35
+  controlID: 16
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -309,19 +309,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Virus
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Virus
   m_LastFoldersGridSize: -1
   m_LastProjectPath: A:\Semester_3\GE-Lab\GitHub\GE-Lab\Projekt_fkk_Corona
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6350000
-    m_LastClickedID: 13782
+    m_SelectedIDs: 14360000
+    m_LastClickedID: 13844
     m_ExpandedIDs: 00000000d6350000d8350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -394,7 +394,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -535,9 +535,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.3082905, y: -1.5751228, z: 6.724141}
+    m_Target: {x: -2.8042774, y: -0.0224998, z: 16.122107}
     speed: 2
-    m_Value: {x: -3.3082905, y: -1.5751228, z: 6.724141}
+    m_Value: {x: -2.8042774, y: -0.0224998, z: 16.122107}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -583,13 +583,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1548318, y: 0.79043394, z: -0.22285743, w: -0.5491602}
+    m_Target: {x: -0.17489158, y: 0.012402413, z: -0.0022034096, w: -0.98450863}
     speed: 2
-    m_Value: {x: -0.15483172, y: 0.7904336, z: -0.22285733, w: -0.54915994}
+    m_Value: {x: -0.17488782, y: 0.013879143, z: -0.0024657408, w: -0.9844875}
   m_Size:
-    m_Target: 10
+    m_Target: 2.5863736
     speed: 2
-    m_Value: 10
+    m_Value: 2.8863735
   m_Ortho:
     m_Target: 0
     speed: 2
