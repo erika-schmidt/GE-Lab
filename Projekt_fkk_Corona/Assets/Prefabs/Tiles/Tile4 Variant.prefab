@@ -7,6 +7,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4723876438999279399}
     m_Modifications:
+    - target: {fileID: 2940177310360193717, guid: f05a67d269b830f4bbe8bbcb3f438476,
+        type: 3}
+      propertyPath: m_Range
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2940177310360193717, guid: f05a67d269b830f4bbe8bbcb3f438476,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 3268242549734378477, guid: f05a67d269b830f4bbe8bbcb3f438476,
         type: 3}
       propertyPath: m_Name
@@ -89,7 +99,7 @@ PrefabInstance:
     - target: {fileID: 2402624155398804303, guid: e2d69eb51697f5849a365f38c53f1874,
         type: 3}
       propertyPath: m_Name
-      value: Tile4
+      value: Tile4 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7126244942306899674, guid: e2d69eb51697f5849a365f38c53f1874,
         type: 3}
