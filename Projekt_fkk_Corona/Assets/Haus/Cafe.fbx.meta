@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Cafe
+    second: {fileID: 2100000, guid: b291700029386f34596ee84cae447ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Fenster
     second: {fileID: 2100000, guid: 060b0b3ade81abe4ca613d7aba563c1d, type: 2}
   materials:
