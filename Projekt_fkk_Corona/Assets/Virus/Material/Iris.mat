@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 2.37, y: -2.07}
     - _Cube:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 8900000, guid: 6fa3f446deee84c52aec507bd0aca28c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Detail:
@@ -52,7 +52,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b18c8eb3084ee5b40943dee0eaee1a32, type: 3}
+        m_Texture: {fileID: 2800000, guid: b98801944cfbb824f812e1f3f06875f4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -85,16 +85,16 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Shininess: 0.45
+    - _Shininess: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 0
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Color: {r: 1, g: 0.8272578, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _ReflectColor: {r: 1, g: 0, b: 0, a: 0.5}
+    - _ReflectColor: {r: 1, g: 0.9399502, b: 0, a: 0.5}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SpecColor: {r: 1, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 1, g: 0.8441375, b: 0, a: 1}
