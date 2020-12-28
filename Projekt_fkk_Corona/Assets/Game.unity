@@ -5302,7 +5302,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d96833eef0f56d247bba3943870dbbe1,
         type: 3}
       propertyPath: m_TagString
-      value: Player
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d96833eef0f56d247bba3943870dbbe1, type: 3}
@@ -5541,6 +5541,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RunningPlayer
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5f95f1b7f1feb254b9f5d86ab55982d7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 1082469606599370644, guid: 5f95f1b7f1feb254b9f5d86ab55982d7,
         type: 3}
