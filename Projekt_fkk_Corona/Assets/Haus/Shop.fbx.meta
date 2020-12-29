@@ -3,7 +3,17 @@ guid: 59cc0f0e9a4a9504187a8c00d42e2996
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fenster
+    second: {fileID: 2100000, guid: 8f8f204f860e04e42bea6421c7a5ae24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shop
+    second: {fileID: 2100000, guid: 9a670f41a7d227742b72fac2404fe290, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
