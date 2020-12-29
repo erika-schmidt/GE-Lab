@@ -171,10 +171,90 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.66644716
       objectReference: {fileID: 0}
+    - target: {fileID: -8355579101202053003, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8355579101202053003, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -8246912899171996075, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8246912899171996075, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -4904782989068966781, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -4904782989068966781, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -1294892128559850198, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -1294892128559850198, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: -206254283356321021, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -206254283356321021, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 500
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4072aaa2bb0503a478de42b59af402ce,
         type: 3}
       propertyPath: m_Name
       value: Tunnel
+      objectReference: {fileID: 0}
+    - target: {fileID: 1386601310104797757, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1386601310104797757, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8555210245918711917, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8555210245918711917, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8594763072654853305, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8594763072654853305, guid: 4072aaa2bb0503a478de42b59af402ce,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4072aaa2bb0503a478de42b59af402ce, type: 3}
