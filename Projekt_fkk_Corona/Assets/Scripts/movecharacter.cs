@@ -49,5 +49,4 @@ public class movecharacter : MonoBehaviour
         horizVel = 0;
         controlLocked = "n";
     }
-
 }

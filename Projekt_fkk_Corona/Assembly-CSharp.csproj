@@ -59,6 +59,7 @@
      <Compile Include="Assets\CHARACTER\PlayerControler.cs" />
      <Compile Include="Assets\Scripts\CameraMotor.cs" />
      <Compile Include="Assets\Scripts\PlayerMotor.cs" />
+     <Compile Include="Assets\Scripts\Score.cs" />
      <Compile Include="Assets\Scripts\TileManager.cs" />
      <Compile Include="Assets\Scripts\movecam.cs" />
      <Compile Include="Assets\Scripts\movecharacter.cs" />
