@@ -7,6 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1578867730980178096}
     m_Modifications:
+    - target: {fileID: 112286239691631847, guid: 6b850e55b11586044ad81aef05e9b174,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.43137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 112286239691631847, guid: 6b850e55b11586044ad81aef05e9b174,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.54901963
+      objectReference: {fileID: 0}
+    - target: {fileID: 112286239691631847, guid: 6b850e55b11586044ad81aef05e9b174,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.67058825
+      objectReference: {fileID: 0}
     - target: {fileID: 295075225499413951, guid: 6b850e55b11586044ad81aef05e9b174,
         type: 3}
       propertyPath: m_Name
@@ -155,6 +170,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tile10 (outside) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876695501997142616, guid: b93fe0cf1b6f3804f90a7408b270fb8b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.43137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876695501997142616, guid: b93fe0cf1b6f3804f90a7408b270fb8b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.54901963
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876695501997142616, guid: b93fe0cf1b6f3804f90a7408b270fb8b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.67058825
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b93fe0cf1b6f3804f90a7408b270fb8b, type: 3}

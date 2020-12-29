@@ -14397,6 +14397,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile14 (outside) (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3372493828803784333, guid: c49a42afff88f5942890ae651d5f6cb2,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.43137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 3372493828803784333, guid: c49a42afff88f5942890ae651d5f6cb2,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.54901963
+      objectReference: {fileID: 0}
+    - target: {fileID: 3372493828803784333, guid: c49a42afff88f5942890ae651d5f6cb2,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.67058825
+      objectReference: {fileID: 0}
     - target: {fileID: 6795669347797402225, guid: c49a42afff88f5942890ae651d5f6cb2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14529,7 +14544,7 @@ PrefabInstance:
     - target: {fileID: 5090671209484955622, guid: c17d30523418ca043a7b8fc67e202830,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5375843539141675333, guid: c17d30523418ca043a7b8fc67e202830,
         type: 3}
@@ -14544,7 +14559,7 @@ PrefabInstance:
     - target: {fileID: 7318392517213894650, guid: c17d30523418ca043a7b8fc67e202830,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7427195260368587166, guid: c17d30523418ca043a7b8fc67e202830,
         type: 3}
