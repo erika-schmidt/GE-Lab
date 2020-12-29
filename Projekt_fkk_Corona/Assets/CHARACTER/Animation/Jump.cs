@@ -4,24 +4,23 @@ using UnityEngine;
 
 public class Jump : MonoBehaviour
 {
-    public Animator animator;
 
+    public Animator anim;
 
 
     // Start is called before the first frame update
     void Start()
-    {
-        //Get the animator
 
-        animator = GetComponent<Animator>();
+    {
+        anim = this.gameObject.GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Inputspace.GetButtonDown("Jump")) //wert erhöhen
+        if (Input.GetButtonDown("Jump"))
         {
-            animator.SetTrigger("Space");
+            anim.SetTrigger("jump");
         }
     }
 }
