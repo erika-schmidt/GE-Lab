@@ -3,15 +3,11 @@
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     <CscToolPath>E:\Programme\Unity\2019.4.14f1\Editor\Data\Tools\RoslynScripts</CscToolPath>
 =======
     <CscToolPath>D:\Programme\2019.4.14f1\Editor\Data\Tools\RoslynScripts</CscToolPath>
 >>>>>>> Stashed changes
-=======
-    <CscToolPath>C:\Program Files\Unity\Hub\Editor\2019.4.14f1\Editor\Data\Tools\RoslynScripts</CscToolPath>
->>>>>>> parent of e16275f1... Tag fix
 =======
     <CscToolPath>C:\Program Files\Unity\Hub\Editor\2019.4.14f1\Editor\Data\Tools\RoslynScripts</CscToolPath>
 >>>>>>> parent of e16275f1... Tag fix
@@ -61,7 +57,6 @@
   <ItemGroup>
     <Reference Include="UnityEngine">
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
       <HintPath>E:\Programme\Unity\2019.4.14f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -73,12 +68,6 @@
     <Reference Include="UnityEditor">
       <HintPath>D:\Programme\2019.4.14f1\Editor\Data\Managed/UnityEditor.dll</HintPath>
 >>>>>>> Stashed changes
-=======
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.14f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.14f1\Editor\Data\Managed/UnityEditor.dll</HintPath>
->>>>>>> parent of e16275f1... Tag fix
 =======
       <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.14f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -99,12 +88,8 @@
      <None Include="Assets\AllSkyFree\AllSkyFree_Readme.txt" />
  <Reference Include="UnityEngine">
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
  <HintPath>E:/Programme/Unity/2019.4.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
-=======
- <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
->>>>>>> parent of e16275f1... Tag fix
 =======
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
 >>>>>>> parent of e16275f1... Tag fix
@@ -665,7 +650,6 @@
  <HintPath>C:/Users/fener/OneDrive/Dokumente/GitHub/GE-Lab/Projekt_fkk_Corona/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
-<<<<<<< HEAD
 <<<<<<< HEAD
  <HintPath>C:/Users/test/Documents/GitHub/GE-Lab/Projekt_fkk_Corona/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
 =======
@@ -1229,9 +1213,6 @@
  <Reference Include="UnityEditor.UI">
  <HintPath>A:/Semester_3/GE-Lab/GitHub/GE-Lab/Projekt_fkk_Corona/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
 >>>>>>> Stashed changes
-=======
- <HintPath>C:/Users/fener/OneDrive/Dokumente/GitHub/GE-Lab/Projekt_fkk_Corona/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
->>>>>>> parent of e16275f1... Tag fix
 =======
  <HintPath>C:/Users/fener/OneDrive/Dokumente/GitHub/GE-Lab/Projekt_fkk_Corona/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
 >>>>>>> parent of e16275f1... Tag fix

@@ -44,7 +44,6 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 1680
     height: 917
@@ -60,14 +59,6 @@ MonoBehaviour:
   vertical: 0
   controlID: 62
 >>>>>>> Stashed changes
-=======
-    width: 1920
-    height: 947
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
-  vertical: 0
-  controlID: 125
->>>>>>> parent of e16275f1... Tag fix
 =======
     width: 1920
     height: 947
@@ -94,7 +85,6 @@ MonoBehaviour:
     x: 1367
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 380
     height: 917
@@ -106,12 +96,6 @@ MonoBehaviour:
     height: 947
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
-=======
-    width: 553
-    height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
->>>>>>> parent of e16275f1... Tag fix
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -134,7 +118,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 200
     height: 676
   m_MinSize: {x: 200, y: 200}
@@ -169,8 +152,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-=======
->>>>>>> parent of e16275f1... Tag fix
     width: 403
     height: 573
   m_MinSize: {x: 201, y: 221}
@@ -197,7 +178,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     y: 641
     width: 1300
@@ -207,11 +187,6 @@ MonoBehaviour:
     width: 1367
     height: 271
 >>>>>>> Stashed changes
-=======
-    y: 573
-    width: 1367
-    height: 374
->>>>>>> parent of e16275f1... Tag fix
 =======
     y: 573
     width: 1367
@@ -246,14 +221,9 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 1680
     height: 967
-=======
-    width: 1920
-    height: 997
->>>>>>> parent of e16275f1... Tag fix
 =======
     width: 1920
     height: 997
@@ -328,7 +298,6 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 1300
     height: 917
@@ -344,14 +313,6 @@ MonoBehaviour:
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 63
-=======
-    width: 1367
-    height: 947
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
-  vertical: 1
-  controlID: 62
->>>>>>> parent of e16275f1... Tag fix
 =======
     width: 1367
     height: 947
@@ -381,7 +342,6 @@ MonoBehaviour:
     y: 0
     width: 1367
 <<<<<<< HEAD
-<<<<<<< HEAD
     height: 676
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
@@ -390,17 +350,12 @@ MonoBehaviour:
 --- !u!114 &11
 >>>>>>> Stashed changes
 =======
-=======
->>>>>>> parent of e16275f1... Tag fix
     height: 573
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 63
 --- !u!114 &11
-<<<<<<< HEAD
->>>>>>> parent of e16275f1... Tag fix
-=======
 >>>>>>> parent of e16275f1... Tag fix
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -417,12 +372,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 0
-=======
-    x: 403
->>>>>>> parent of e16275f1... Tag fix
 =======
     x: 403
 >>>>>>> parent of e16275f1... Tag fix
@@ -433,7 +384,6 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
-<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 15}
   - {fileID: 11}
@@ -460,8 +410,6 @@ MonoBehaviour:
 --- !u!114 &12
 >>>>>>> Stashed changes
 =======
-=======
->>>>>>> parent of e16275f1... Tag fix
   - {fileID: 17}
   - {fileID: 13}
   - {fileID: 12}
@@ -469,9 +417,6 @@ MonoBehaviour:
   m_Selected: 3
   m_LastSelected: 2
 --- !u!114 &12
-<<<<<<< HEAD
->>>>>>> parent of e16275f1... Tag fix
-=======
 >>>>>>> parent of e16275f1... Tag fix
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -592,7 +537,6 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 0
     y: 73
@@ -604,12 +548,6 @@ MonoBehaviour:
     width: 962
     height: 552
 >>>>>>> Stashed changes
-=======
-    x: 400
-    y: 73
-    width: 968
-    height: 552
->>>>>>> parent of e16275f1... Tag fix
 =======
     x: 400
     y: 73
@@ -640,7 +578,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     y: 714
     width: 1299
@@ -650,11 +587,6 @@ MonoBehaviour:
     width: 1366
     height: 250
 >>>>>>> Stashed changes
-=======
-    y: 646
-    width: 1366
-    height: 353
->>>>>>> parent of e16275f1... Tag fix
 =======
     y: 646
     width: 1366
@@ -681,7 +613,6 @@ MonoBehaviour:
   - Assets/CHARACTER/Animation
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_LastProjectPath: C:\Users\test\Documents\GitHub\GE-Lab\Projekt_fkk_Corona
   m_LockTracker:
@@ -706,19 +637,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-=======
-  m_LastProjectPath: C:\Users\fener\OneDrive\Dokumente\GitHub\GE-Lab\Projekt_fkk_Corona
-  m_LockTracker:
-    m_IsLocked: 0
-  m_FolderTreeState:
->>>>>>> parent of e16275f1... Tag fix
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 743a0000
     m_LastClickedID: 14964
     m_ExpandedIDs: 000000004e3a0000503a0000523a0000723a000000ca9a3b
-<<<<<<< HEAD
->>>>>>> parent of e16275f1... Tag fix
-=======
 >>>>>>> parent of e16275f1... Tag fix
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -748,15 +670,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_ExpandedIDs: 000000003abc00003cbc00003ebc0000
 =======
     m_ExpandedIDs: 0000000044c5000046c5000048c50000
 >>>>>>> Stashed changes
-=======
-    m_ExpandedIDs: 000000004e3a0000503a0000523a0000
->>>>>>> parent of e16275f1... Tag fix
 =======
     m_ExpandedIDs: 000000004e3a0000503a0000523a0000
 >>>>>>> parent of e16275f1... Tag fix
@@ -877,7 +795,6 @@ MonoBehaviour:
     x: 0
     y: 73
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 379
     height: 896
@@ -889,15 +806,10 @@ MonoBehaviour:
     width: 402
     height: 552
 >>>>>>> parent of e16275f1... Tag fix
-=======
-    width: 402
-    height: 552
->>>>>>> parent of e16275f1... Tag fix
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
       m_SelectedIDs: e07a0000
@@ -908,11 +820,6 @@ MonoBehaviour:
       m_LastClickedID: 0
       m_ExpandedIDs: d281f8ff9c84f8ff72f50000
 >>>>>>> Stashed changes
-=======
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 54eaffff
->>>>>>> parent of e16275f1... Tag fix
 =======
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -963,7 +870,6 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 0
     y: 73
@@ -975,12 +881,6 @@ MonoBehaviour:
     width: 1165
     height: 655
 >>>>>>> Stashed changes
-=======
-    x: 403
-    y: 73
-    width: 962
-    height: 552
->>>>>>> parent of e16275f1... Tag fix
 =======
     x: 403
     y: 73
@@ -999,7 +899,6 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_Target: {x: 2.262001, y: 2.6476555, z: 5.227197}
     speed: 2
@@ -1009,11 +908,6 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 8, y: 1.4738581, z: 65}
 >>>>>>> Stashed changes
-=======
-    m_Target: {x: 0.1540165, y: 1.3001485, z: -1.0641274}
-    speed: 2
-    m_Value: {x: 0.1540165, y: 1.3001485, z: -1.0641274}
->>>>>>> parent of e16275f1... Tag fix
 =======
     m_Target: {x: 0.1540165, y: 1.3001485, z: -1.0641274}
     speed: 2
@@ -1065,12 +959,8 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_Target: {x: -0.17035058, y: 0.43157253, z: -0.08336227, w: -0.8819169}
-=======
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
->>>>>>> parent of e16275f1... Tag fix
 =======
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 >>>>>>> parent of e16275f1... Tag fix
@@ -1079,7 +969,6 @@ MonoBehaviour:
   m_Size:
     m_Target: 1.4520504
     speed: 2
-<<<<<<< HEAD
 <<<<<<< HEAD
     m_Value: 12.124355
 =======
@@ -1091,9 +980,6 @@ MonoBehaviour:
     speed: 2
     m_Value: 7.42768
 >>>>>>> Stashed changes
-=======
-    m_Value: 1.4520504
->>>>>>> parent of e16275f1... Tag fix
 =======
     m_Value: 1.4520504
 >>>>>>> parent of e16275f1... Tag fix
@@ -1143,7 +1029,6 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     x: 0
     y: 73
@@ -1161,12 +1046,6 @@ MonoBehaviour:
     width: 962
     height: 552
 >>>>>>> parent of e16275f1... Tag fix
-=======
-    x: 403
-    y: 73
-    width: 962
-    height: 552
->>>>>>> parent of e16275f1... Tag fix
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -1177,15 +1056,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_TargetSize: {x: 1403, y: 604}
 =======
   m_TargetSize: {x: 1165, y: 634}
 >>>>>>> Stashed changes
-=======
-  m_TargetSize: {x: 962, y: 531}
->>>>>>> parent of e16275f1... Tag fix
 =======
   m_TargetSize: {x: 962, y: 531}
 >>>>>>> parent of e16275f1... Tag fix
@@ -1204,7 +1079,6 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_HBaseRangeMin: -701.5
     m_HBaseRangeMax: 701.5
@@ -1217,15 +1091,10 @@ MonoBehaviour:
     m_VBaseRangeMax: 317
 >>>>>>> Stashed changes
 =======
-=======
->>>>>>> parent of e16275f1... Tag fix
     m_HBaseRangeMin: -481
     m_HBaseRangeMax: 481
     m_VBaseRangeMin: -265.5
     m_VBaseRangeMax: 265.5
-<<<<<<< HEAD
->>>>>>> parent of e16275f1... Tag fix
-=======
 >>>>>>> parent of e16275f1... Tag fix
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -1245,7 +1114,6 @@ MonoBehaviour:
       x: 0
       y: 21
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
       width: 1403
       height: 604
@@ -1263,19 +1131,12 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 481, y: 265.5}
 >>>>>>> parent of e16275f1... Tag fix
-=======
-      width: 962
-      height: 531
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 481, y: 265.5}
->>>>>>> parent of e16275f1... Tag fix
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
       x: -701.5
@@ -1294,15 +1155,6 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1165, y: 655}
 >>>>>>> Stashed changes
-=======
-      x: -481
-      y: -265.5
-      width: 962
-      height: 531
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 962, y: 552}
->>>>>>> parent of e16275f1... Tag fix
 =======
       x: -481
       y: -265.5
