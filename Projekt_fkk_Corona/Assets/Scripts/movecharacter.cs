@@ -26,7 +26,7 @@ public class movecharacter : MonoBehaviour
         
         if((Input.GetKeyDown(moveL)) && (laneNum>1) && (controlLocked == "n"))
         {
-            horizVel = -5;
+            horizVel = -3;
             StartCoroutine(stopSlide());
             laneNum -= 1;
             controlLocked = "y";
@@ -35,7 +35,7 @@ public class movecharacter : MonoBehaviour
 
         if((Input.GetKeyDown(moveR)) && (laneNum<3) && (controlLocked == "n"))
         {
-            horizVel = 5;
+            horizVel = 3;
             StartCoroutine(stopSlide());
             laneNum += 1;
             controlLocked = "y";
