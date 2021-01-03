@@ -2,7 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1102 &-5959913786138107403
@@ -71,6 +74,9 @@ AnimatorStateMachine:
     m_State: {fileID: -5959913786138107403}
     m_Position: {x: 432.83585, y: 319.38806, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -85,7 +91,11 @@ AnimatorStateMachine:
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_DefaultState: {fileID: 0}
+=======
+  m_DefaultState: {fileID: -5959913786138107403}
+>>>>>>> Stashed changes
 =======
   m_DefaultState: {fileID: -5959913786138107403}
 >>>>>>> Stashed changes
