@@ -12,7 +12,7 @@ Material:
   m_ShaderKeywords: _EMISSION _SPECULARHIGHLIGHTS_OFF
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -73,5 +73,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 10.867925, g: 8.949747, b: 0.87148464, a: 1}
+    - _Color: {r: 0.9292453, g: 0.978583, b: 1, a: 1}
+    - _EmissionColor: {r: 8.607292, g: 9.095334, b: 4.1705437, a: 1}
