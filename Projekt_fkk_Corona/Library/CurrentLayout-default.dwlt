@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 66
+  controlID: 138
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 403
     height: 574
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 67
+  controlID: 92
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 111
+  controlID: 66
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Coins
+    - Assets/Prefabs/Tiles
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Coins
+  - Assets/Prefabs/Tiles
   m_LastFoldersGridSize: -1
   m_LastProjectPath: A:\Semester_3\GE-Lab\GitHub\GE-Lab\Projekt_fkk_Corona
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0ec50000
-    m_LastClickedID: 50446
-    m_ExpandedIDs: 00000000f0c40000f2c40000f4c40000f6c40000
+    scrollPos: {x: 0, y: 88}
+    m_SelectedIDs: daa90000
+    m_LastClickedID: 43482
+    m_ExpandedIDs: 00000000d8a90000daa90000dca90000dea90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f0c40000f2c40000f4c40000f6c40000
+    m_ExpandedIDs: 00000000d8a90000daa90000dca90000dea90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d8040100
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4ed0fbffd2d7fdff80dafdffa0ddfeff86030100
+      m_ExpandedIDs: f451f9ff70150100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -557,16 +557,16 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: fa18e964db1be5f419e9fa7ae7d17a52
   m_Gizmos: 1
-  m_SceneIsLit: 1
+  m_SceneIsLit: 0
   m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1045.662, y: 500.2892, z: 2000.9712}
+    m_Target: {x: -0.4936692, y: 0.1814853, z: 57.38204}
     speed: 2
-    m_Value: {x: 1045.662, y: 500.2892, z: 2000.9712}
+    m_Value: {x: -0.4936692, y: 0.1814853, z: 57.38204}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -579,7 +579,7 @@ MonoBehaviour:
   m_SceneViewState:
     showFog: 1
     showMaterialUpdate: 0
-    showSkybox: 1
+    showSkybox: 0
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -612,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.00868457, y: 0.03598601, z: 0.00031255072, w: 0.99931526}
+    m_Target: {x: 0.121448666, y: -0.03126604, z: 0.0038280596, w: 0.9921049}
     speed: 2
-    m_Value: {x: -0.008684085, y: 0.037484918, z: 0.00032557698, w: 0.9992595}
+    m_Value: {x: 0.12144781, y: -0.03126582, z: 0.0038280326, w: 0.9920979}
   m_Size:
-    m_Target: 1158.0432
+    m_Target: 4.0523486
     speed: 2
-    m_Value: 1212.6107
+    m_Value: 4.0523486
   m_Ortho:
     m_Target: 0
     speed: 2
