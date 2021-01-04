@@ -12,6 +12,8 @@ public class movecharacter : MonoBehaviour
     public int laneNum = 2;
     public string controlLocked = "n";
 
+    private float speed = 4;
+
 
     // Start is called before the first frame update
     void Start()
@@ -23,16 +25,18 @@ public class movecharacter : MonoBehaviour
     void Update()
     {
 
-        GetComponent<Rigidbody>().velocity = new Vector3(horizVel, 0, 4);
-        
-        if((Input.GetKeyDown(moveL)) && (laneNum>1) && (controlLocked == "n"))
+        GetComponent<Rigidbody>().velocity = new Vector3(horizVel, verVel, speed);
+        speed = speed * 1.00002f;
+
+        if ((Input.GetKeyDown(moveL)) && (laneNum>1) && (controlLocked == "n"))
         {
-            horizVel = -3;
+            horizVel = -3; 
             StartCoroutine(stopSlide());
             laneNum -= 1;
             controlLocked = "y";
 
         }
+
 
         if((Input.GetKeyDown(moveR)) && (laneNum<3) && (controlLocked == "n"))
         {
@@ -44,7 +48,7 @@ public class movecharacter : MonoBehaviour
         }
         if (Input.GetButtonDown("Submit"))
         {
-            verVel = 30;
+            verVel = 2;
 
         }
     }

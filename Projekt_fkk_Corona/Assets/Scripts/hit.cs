@@ -8,6 +8,8 @@ public class hit : MonoBehaviour
     public GameObject DeathMenu;
     public Animator anim;
 
+    //private bool isDead = false;
+
     void Start()
 
     {
@@ -21,8 +23,14 @@ public class hit : MonoBehaviour
             //Destroy(gameObject);
             anim.SetTrigger("death");
             DeathMenu.SetActive(true);
-              
+            Death();  
         }
+    }
+
+    void Death()
+    {
+        //isDead = true;
+        GetComponent<Score>().OnDeath();
     }
 
 }
