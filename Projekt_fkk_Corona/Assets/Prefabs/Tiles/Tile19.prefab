@@ -47,7 +47,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!95 &5642609555217119282
 Animator:
   serializedVersion: 3
@@ -67,8 +66,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!65 &3726835838645917610
@@ -138,7 +135,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!95 &4284864797601233390
 Animator:
   serializedVersion: 3
@@ -158,8 +154,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &7080462524970054101
@@ -290,7 +284,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!95 &5802279369356521577
 Animator:
   serializedVersion: 3
@@ -310,8 +303,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1001 &1480199592115103029
@@ -980,7 +971,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 8856980605237077154}
-<<<<<<< Updated upstream
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6556844462583330373
 PrefabInstance:
@@ -1173,6 +1163,4 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 8856980605237077154}
-=======
->>>>>>> Stashed changes
   m_PrefabAsset: {fileID: 0}
