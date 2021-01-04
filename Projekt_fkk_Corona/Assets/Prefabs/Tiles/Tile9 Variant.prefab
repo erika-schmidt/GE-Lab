@@ -1,5 +1,44 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!65 &7239839085194063772
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5884604393258048267}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.020241411, y: 0.020014811, z: 0.015}
+  m_Center: {x: -0.000029552726, y: 0.0000038808207, z: -0.002}
+--- !u!65 &7448431908155361947
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2673134541409578339}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.020241411, y: 0.020014811, z: 0.015}
+  m_Center: {x: -0.000029552726, y: 0.0000038808207, z: -0.002}
+--- !u!65 &3111899733118343111
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5549791922560537063}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.020241411, y: 0.020014811, z: 0.015}
+  m_Center: {x: -0.000029552726, y: 0.0000038808207, z: -0.002}
 --- !u!1001 &226068141066154632
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -91,6 +130,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile9 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3407883206262980799, guid: a873aad189bb3fc45aec534789536a2b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 5140586651324906555, guid: a873aad189bb3fc45aec534789536a2b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627480674360178391, guid: a873aad189bb3fc45aec534789536a2b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 6642814323374903626, guid: a873aad189bb3fc45aec534789536a2b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -151,6 +205,24 @@ PrefabInstance:
 --- !u!4 &6225063635958054038 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6642814323374903626, guid: a873aad189bb3fc45aec534789536a2b,
+    type: 3}
+  m_PrefabInstance: {fileID: 744178107192733148}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5884604393258048267 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6627480674360178391, guid: a873aad189bb3fc45aec534789536a2b,
+    type: 3}
+  m_PrefabInstance: {fileID: 744178107192733148}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2673134541409578339 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3407883206262980799, guid: a873aad189bb3fc45aec534789536a2b,
+    type: 3}
+  m_PrefabInstance: {fileID: 744178107192733148}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5549791922560537063 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5140586651324906555, guid: a873aad189bb3fc45aec534789536a2b,
     type: 3}
   m_PrefabInstance: {fileID: 744178107192733148}
   m_PrefabAsset: {fileID: 0}

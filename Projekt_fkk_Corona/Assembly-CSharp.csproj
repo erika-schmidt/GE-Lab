@@ -65,6 +65,7 @@
      <Compile Include="Assets\Scripts\PlayerMotor.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
      <Compile Include="Assets\Scripts\TileManager.cs" />
+     <Compile Include="Assets\Scripts\hit.cs" />
      <Compile Include="Assets\Scripts\movecam.cs" />
      <Compile Include="Assets\Scripts\movecharacter.cs" />
      <None Include="Assets\AllSkyFree\AllSkyFree_Readme.txt" />

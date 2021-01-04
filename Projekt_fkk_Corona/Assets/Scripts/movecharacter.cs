@@ -8,6 +8,7 @@ public class movecharacter : MonoBehaviour
     public KeyCode moveR;
 
     public float horizVel = 0;
+    public float verVel = 0;
     public int laneNum = 2;
     public string controlLocked = "n";
 
@@ -39,6 +40,11 @@ public class movecharacter : MonoBehaviour
             StartCoroutine(stopSlide());
             laneNum += 1;
             controlLocked = "y";
+
+        }
+        if (Input.GetButtonDown("Submit"))
+        {
+            verVel = 30;
 
         }
     }

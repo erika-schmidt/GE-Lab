@@ -32,7 +32,7 @@ Transform:
   - {fileID: 2956517004218437029}
   - {fileID: 4770380784900082995}
   m_Father: {fileID: 5968120175846707782}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!198 &1916594896592826615
 ParticleSystem:
@@ -14539,6 +14539,11 @@ PrefabInstance:
     - target: {fileID: 1252052267527887047, guid: c17d30523418ca043a7b8fc67e202830,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557165358696321905, guid: c17d30523418ca043a7b8fc67e202830,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5090671209484955622, guid: c17d30523418ca043a7b8fc67e202830,

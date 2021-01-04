@@ -4844,7 +4844,7 @@ Transform:
   - {fileID: 4311539863910360989}
   - {fileID: 4966569060110143772}
   m_Father: {fileID: 7030125224856264622}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!198 &190316251297152840
 ParticleSystem:
@@ -14407,6 +14407,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile4 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3014951667581372491, guid: e2d69eb51697f5849a365f38c53f1874,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5834779162365132140, guid: e2d69eb51697f5849a365f38c53f1874,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7126244942306899674, guid: e2d69eb51697f5849a365f38c53f1874,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14515,7 +14525,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 134dbadf7dbe1454f86c6560e911970a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 134dbadf7dbe1454f86c6560e911970a,
         type: 3}
@@ -14792,7 +14802,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 134dbadf7dbe1454f86c6560e911970a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 134dbadf7dbe1454f86c6560e911970a,
         type: 3}

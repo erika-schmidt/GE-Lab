@@ -7,7 +7,6 @@ public class Jump : MonoBehaviour
 
     public Animator anim;
 
-
     // Start is called before the first frame update
     void Start()
 
@@ -21,6 +20,8 @@ public class Jump : MonoBehaviour
         if (Input.GetButtonDown("Submit"))
         {
             anim.SetTrigger("jump");
+            
         }
     }
+  
 }
