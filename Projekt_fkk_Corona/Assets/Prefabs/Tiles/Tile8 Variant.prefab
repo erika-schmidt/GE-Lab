@@ -75,17 +75,17 @@ PrefabInstance:
     - target: {fileID: 1907055607928474488, guid: 48868cf8a06640847992f16a7d68b64c,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.43137255
+      value: 0.99215686
       objectReference: {fileID: 0}
     - target: {fileID: 1907055607928474488, guid: 48868cf8a06640847992f16a7d68b64c,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.54901963
+      value: 0.9529412
       objectReference: {fileID: 0}
     - target: {fileID: 1907055607928474488, guid: 48868cf8a06640847992f16a7d68b64c,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.67058825
+      value: 0.7058824
       objectReference: {fileID: 0}
     - target: {fileID: 6273566015475262305, guid: 48868cf8a06640847992f16a7d68b64c,
         type: 3}
@@ -101,6 +101,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 816993874543675540, guid: ec089c15260e52944970f1ec729221fb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1622151980457111988, guid: ec089c15260e52944970f1ec729221fb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -109,7 +114,7 @@ PrefabInstance:
     - target: {fileID: 1622151980457111988, guid: ec089c15260e52944970f1ec729221fb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5
+      value: -0.6
       objectReference: {fileID: 0}
     - target: {fileID: 1622151980457111988, guid: ec089c15260e52944970f1ec729221fb,
         type: 3}
@@ -156,10 +161,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2639043542037051906, guid: ec089c15260e52944970f1ec729221fb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3386020439382417926, guid: ec089c15260e52944970f1ec729221fb,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6138790390916338721, guid: ec089c15260e52944970f1ec729221fb,
         type: 3}
