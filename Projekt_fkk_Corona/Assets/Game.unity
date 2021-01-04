@@ -5199,11 +5199,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 5fd6d90cfeb97ea468c7668508bf6de2, type: 3}
-    m_FontSize: 25
+    m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
-    m_MaxSize: 51
+    m_MaxSize: 52
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -5426,7 +5426,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -5484,9 +5484,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tilePrefabs:
-  - {fileID: 754413208943766794, guid: 1a88012f036392c42897fe3d712bf839, type: 3}
-  - {fileID: 7902364190034533184, guid: b7f947edf4b61504b901cd0435af2ce2, type: 3}
-  - {fileID: 1301751969931054078, guid: 3a1d72641ebc18a4dbf6316b6fccb490, type: 3}
+  - {fileID: 2476888636182398183, guid: 1a88012f036392c42897fe3d712bf839, type: 3}
+  - {fileID: 385658955233215911, guid: b7f947edf4b61504b901cd0435af2ce2, type: 3}
+  - {fileID: 8179284113260706054, guid: 3a1d72641ebc18a4dbf6316b6fccb490, type: 3}
   - {fileID: 4896341361779487769, guid: 5fc78fa87ed599f40881687228e4d245, type: 3}
   - {fileID: 5762861654171192373, guid: 63838e085fb18544aba2783752ba2de8, type: 3}
   - {fileID: 2055339987629624786, guid: c1fc8a6c687ee674e80bbfae52bbb325, type: 3}
@@ -15715,8 +15715,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -50}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0, y: -40}
+  m_SizeDelta: {x: 250, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1101262471
 MonoBehaviour:
@@ -15900,6 +15900,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 285699206}
+  deathMenu: {fileID: 960217119}
 --- !u!114 &1620158322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20783,7 +20784,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1793985460}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 960217119}
+        m_MethodName: Menu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1793985460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20797,7 +20809,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 0}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -20902,7 +20914,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1874604523}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 960217119}
+        m_MethodName: Restart
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1874604523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20916,7 +20939,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 0}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -20990,7 +21013,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
