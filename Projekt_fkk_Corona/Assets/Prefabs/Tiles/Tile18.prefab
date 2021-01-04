@@ -15,7 +15,10 @@ CapsuleCollider:
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &4054562873929440560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29,6 +32,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!95 &5050002085038571251
 Animator:
@@ -50,6 +56,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &4054562873929440560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63,6 +70,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!136 &6440522577103784659
@@ -80,7 +89,10 @@ CapsuleCollider:
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &377001361329319824
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94,6 +106,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!95 &3882169837080891393
 Animator:
@@ -115,6 +130,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &377001361329319824
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128,6 +144,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &2286485660780716997
@@ -246,7 +264,10 @@ CapsuleCollider:
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &6542826527396438612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -260,6 +281,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!95 &9209883560765222417
 Animator:
@@ -281,6 +305,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &6542826527396438612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -294,6 +319,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!136 &3179515873924523614
@@ -311,7 +338,10 @@ CapsuleCollider:
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &5139675191809415602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -325,6 +355,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!95 &2947371843907715331
 Animator:
@@ -346,6 +379,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &5139675191809415602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -359,6 +393,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!136 &5965110405468562959
@@ -389,6 +425,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!95 &1963820333263605577
 Animator:
   serializedVersion: 3
@@ -410,6 +447,8 @@ Animator:
   m_KeepAnimatorControllerStateOnDisable: 0
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 --- !u!136 &2766589461758811016
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -425,7 +464,10 @@ CapsuleCollider:
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &7565175376952322901
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -439,6 +481,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!95 &5460716088248420780
 Animator:
@@ -460,6 +505,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &7565175376952322901
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -473,6 +519,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!136 &989973075588909714
@@ -490,7 +538,10 @@ CapsuleCollider:
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &5559980668340635655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -504,6 +555,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!95 &6133587015122056773
 Animator:
@@ -525,6 +579,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &5559980668340635655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -538,6 +593,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!136 &430981441092902452
@@ -555,7 +612,10 @@ CapsuleCollider:
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &7867966210692123658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -569,6 +629,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!95 &1645711680003841707
 Animator:
@@ -590,6 +653,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &7867966210692123658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -603,6 +667,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1001 &1091490303352196523
@@ -882,12 +948,15 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &2560782131979456353 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 3407201927920923184}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!4 &2937025787657573851 stripped
@@ -897,13 +966,19 @@ Transform:
   m_PrefabInstance: {fileID: 3407201927920923184}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!1 &2560782131979456353 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 3407201927920923184}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1001 &3833555853771223801
 PrefabInstance:
@@ -1086,12 +1161,15 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!4 &3539566276197756164 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 3933236470890187503}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &4203195917182465982 stripped
@@ -1101,13 +1179,19 @@ GameObject:
   m_PrefabInstance: {fileID: 3933236470890187503}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!4 &3539566276197756164 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 3933236470890187503}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1001 &4748723751415531174
 PrefabInstance:
@@ -1290,12 +1374,15 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &6291081592741634064 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 6597492740946140481}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!4 &6630910312716270250 stripped
@@ -1305,13 +1392,19 @@ Transform:
   m_PrefabInstance: {fileID: 6597492740946140481}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!1 &6291081592741634064 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0c6e4f0e9ab177e4a9830d2a54648ce1,
     type: 3}
   m_PrefabInstance: {fileID: 6597492740946140481}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1001 &7636184390542287781
 PrefabInstance:
