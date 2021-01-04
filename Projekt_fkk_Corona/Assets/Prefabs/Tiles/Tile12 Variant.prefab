@@ -275,16 +275,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile12 (outside) (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 6191220384219523251, guid: d946c02910f47b242ab03f017443c8bf,
-        type: 3}
-      propertyPath: m_Intensity
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 8398681103632021847, guid: d946c02910f47b242ab03f017443c8bf,
-        type: 3}
-      propertyPath: m_Intensity
-      value: 5
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d946c02910f47b242ab03f017443c8bf, type: 3}
 --- !u!1001 &4719929967419892049

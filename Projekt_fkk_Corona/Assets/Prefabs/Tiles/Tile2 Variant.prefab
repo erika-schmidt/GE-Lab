@@ -14409,7 +14409,6 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!1 &5087601281029178936
 GameObject:
   m_ObjectHideFlags: 0
@@ -14529,8 +14528,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.021747082, y: 0.020488966, z: 0.020980963}
   m_Center: {x: -0.00038192992, y: 0.001234578, z: -0.0002943736}
-=======
->>>>>>> 0023a11c277d2150ccfbd5569227b61203af6d7c
 --- !u!1 &7982876972894772577
 GameObject:
   m_ObjectHideFlags: 0
@@ -19446,27 +19443,17 @@ PrefabInstance:
     - target: {fileID: 1918273069794132913, guid: 5ec419c5b02cc0747a4353f3481adedc,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.99215686
+      value: 0.43137255
       objectReference: {fileID: 0}
     - target: {fileID: 1918273069794132913, guid: 5ec419c5b02cc0747a4353f3481adedc,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.9529412
+      value: 0.54901963
       objectReference: {fileID: 0}
     - target: {fileID: 1918273069794132913, guid: 5ec419c5b02cc0747a4353f3481adedc,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.7058824
-      objectReference: {fileID: 0}
-    - target: {fileID: 1918273069794132913, guid: 5ec419c5b02cc0747a4353f3481adedc,
-        type: 3}
-      propertyPath: m_Intensity
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 1918273069794132913, guid: 5ec419c5b02cc0747a4353f3481adedc,
-        type: 3}
-      propertyPath: m_Range
-      value: 3
+      value: 0.67058825
       objectReference: {fileID: 0}
     - target: {fileID: 5899135065297512486, guid: 5ec419c5b02cc0747a4353f3481adedc,
         type: 3}
@@ -19495,7 +19482,7 @@ PrefabInstance:
     - target: {fileID: 447076392789758374, guid: cf824ad6094aafd4a8a880b56d0a08b9,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.6
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 447076392789758374, guid: cf824ad6094aafd4a8a880b56d0a08b9,
         type: 3}
@@ -19542,20 +19529,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 1414557240170746773, guid: cf824ad6094aafd4a8a880b56d0a08b9,
         type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
-=======
->>>>>>> 0023a11c277d2150ccfbd5569227b61203af6d7c
     - target: {fileID: 1443062715765198107, guid: cf824ad6094aafd4a8a880b56d0a08b9,
         type: 3}
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 1592173155289704045, guid: cf824ad6094aafd4a8a880b56d0a08b9,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -19571,8 +19554,6 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-=======
->>>>>>> 0023a11c277d2150ccfbd5569227b61203af6d7c
     - target: {fileID: 5009694281267655731, guid: cf824ad6094aafd4a8a880b56d0a08b9,
         type: 3}
       propertyPath: m_Name
