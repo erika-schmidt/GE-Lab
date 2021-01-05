@@ -5,6 +5,7 @@ using UnityEngine;
 public class CoinScript : MonoBehaviour
 {
     public GameHandler GH;
+    public AudioClip coinSound;
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +22,7 @@ public class CoinScript : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         GH.coins++;
+        AudioSource.PlayClipAtPoint(coinSound, transform.position);
         Destroy(gameObject);
     }
 }

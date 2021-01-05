@@ -46,6 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!136 &6440522577103784659
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -92,6 +93,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!1 &2286485660780716997
 GameObject:
   m_ObjectHideFlags: 0
@@ -239,6 +241,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!136 &3179515873924523614
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -285,6 +288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!136 &5965110405468562959
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -299,19 +303,6 @@ CapsuleCollider:
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &6957157740711805054
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4203195917182465982}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7340907b8d78b824d8989069f2fd5111, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  GH: {fileID: 0}
 --- !u!95 &1963820333263605577
 Animator:
   serializedVersion: 3
@@ -331,6 +322,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &6957157740711805054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4203195917182465982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7340907b8d78b824d8989069f2fd5111, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!136 &2766589461758811016
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -377,6 +382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!136 &989973075588909714
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -423,6 +429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!136 &430981441092902452
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -469,6 +476,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!1001 &1091490303352196523
 PrefabInstance:
   m_ObjectHideFlags: 0

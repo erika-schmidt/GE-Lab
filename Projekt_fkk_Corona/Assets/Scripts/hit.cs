@@ -7,6 +7,7 @@ public class hit : MonoBehaviour
 {
     public GameObject DeathMenu;
     public Animator anim;
+    public AudioClip hitSound;
 
     //private bool isDead = false;
 
@@ -21,6 +22,7 @@ public class hit : MonoBehaviour
         if (other.gameObject.tag == "Enemy")
         {
             //Destroy(gameObject);
+            AudioSource.PlayClipAtPoint(hitSound, transform.position);
             anim.SetTrigger("death");
             DeathMenu.SetActive(true);
             Death();  

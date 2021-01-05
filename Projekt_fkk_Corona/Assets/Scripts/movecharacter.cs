@@ -14,6 +14,8 @@ public class movecharacter : MonoBehaviour
 
     private float speed = 4;
 
+    public AudioClip SlideSound;
+
 
     // Start is called before the first frame update
     void Start()
@@ -30,6 +32,7 @@ public class movecharacter : MonoBehaviour
 
         if ((Input.GetKeyDown(moveL)) && (laneNum>1) && (controlLocked == "n"))
         {
+            AudioSource.PlayClipAtPoint(SlideSound, transform.position, 0.5f);
             horizVel = -3; 
             StartCoroutine(stopSlide());
             laneNum -= 1;
@@ -40,6 +43,7 @@ public class movecharacter : MonoBehaviour
 
         if((Input.GetKeyDown(moveR)) && (laneNum<3) && (controlLocked == "n"))
         {
+            AudioSource.PlayClipAtPoint(SlideSound, transform.position, 0.5f);
             horizVel = 3;
             StartCoroutine(stopSlide());
             laneNum += 1;

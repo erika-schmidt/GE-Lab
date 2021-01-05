@@ -143,6 +143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!136 &6707479448641025256
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -189,6 +190,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GH: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: efdbe15abc34c344d9d73bb702c8d24a, type: 3}
 --- !u!1001 &3630576624724541878
 PrefabInstance:
   m_ObjectHideFlags: 0
