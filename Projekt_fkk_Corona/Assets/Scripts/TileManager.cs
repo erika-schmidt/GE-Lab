@@ -23,7 +23,10 @@ public class TileManager : MonoBehaviour
 
         for(int i = 0; i < amnTilesOnScreen; i++)
         {
-            SpawnTile();
+            if (i < 3)
+                SpawnTile(15);
+            else
+                SpawnTile();
         }
     }
 
@@ -40,7 +43,10 @@ public class TileManager : MonoBehaviour
     private void SpawnTile(int prefabIndex = -1)
     {
         GameObject go;
-        go = Instantiate(tilePrefabs [RandomPrefabIndex()]) as GameObject;
+        if (prefabIndex == -1)
+            go = Instantiate(tilePrefabs[RandomPrefabIndex()]) as GameObject;
+        else
+            go = Instantiate(tilePrefabs[prefabIndex]) as GameObject;
         go.transform.SetParent(transform);
         go.transform.position = Vector3.forward * spawnZ;
         spawnZ += tileLength;
