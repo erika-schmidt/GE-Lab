@@ -9,12 +9,14 @@ public class MainMenu : MonoBehaviour
 {
 
     public Text highscoreText;
+    public Text CoinText;
     public AudioClip ButtonSound;
 
     // Start is called before the first frame update
     void Start()
     {
-        highscoreText.text = "Highscore: " + (int)PlayerPrefs.GetFloat("Highscore");
+        highscoreText.text = "HIGHSCORE: " + (int)PlayerPrefs.GetFloat("Highscore");
+        CoinText.text = "" + (int)PlayerPrefs.GetFloat("Coins");
     }
 
     // Update is called once per frame
