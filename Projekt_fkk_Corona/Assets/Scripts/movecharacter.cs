@@ -32,7 +32,7 @@ public class movecharacter : MonoBehaviour
 
         if ((Input.GetKeyDown(moveL)) && (laneNum>1) && (controlLocked == "n"))
         {
-            AudioSource.PlayClipAtPoint(SlideSound, transform.position, 0.5f);
+            AudioSource.PlayClipAtPoint(SlideSound, transform.position);
             horizVel = -3; 
             StartCoroutine(stopSlide());
             laneNum -= 1;
@@ -43,7 +43,7 @@ public class movecharacter : MonoBehaviour
 
         if((Input.GetKeyDown(moveR)) && (laneNum<3) && (controlLocked == "n"))
         {
-            AudioSource.PlayClipAtPoint(SlideSound, transform.position, 0.5f);
+            AudioSource.PlayClipAtPoint(SlideSound, transform.position);
             horizVel = 3;
             StartCoroutine(stopSlide());
             laneNum += 1;
