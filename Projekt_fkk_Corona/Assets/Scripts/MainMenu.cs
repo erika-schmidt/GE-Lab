@@ -9,6 +9,7 @@ public class MainMenu : MonoBehaviour
 {
 
     public Text highscoreText;
+    public AudioClip ButtonSound;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,7 @@ public class MainMenu : MonoBehaviour
 
     public void ToGame()
     {
+        AudioSource.PlayClipAtPoint(ButtonSound, transform.position);
         SceneManager.LoadScene("Game");
     }
 
