@@ -7,10 +7,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3638276808093104504, guid: 1af1b6b0664c83a4586388a4392cef41,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4153198645373330225, guid: 1af1b6b0664c83a4586388a4392cef41,
         type: 3}
       propertyPath: m_Name
-      value: Tile1
+      value: Tile1 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5192009778935762194, guid: 1af1b6b0664c83a4586388a4392cef41,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8795943340935579300, guid: 1af1b6b0664c83a4586388a4392cef41,
         type: 3}

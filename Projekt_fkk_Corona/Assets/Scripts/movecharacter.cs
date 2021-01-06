@@ -52,7 +52,7 @@ public class movecharacter : MonoBehaviour
         }
         if (Input.GetButtonDown("Submit"))
         {
-            verVel = 5;
+            verVel = 2;
             StartCoroutine(stopJump());
         }
     }
@@ -60,7 +60,7 @@ public class movecharacter : MonoBehaviour
     IEnumerator stopJump()
     {
         yield return new WaitForSeconds(.5f);
-        verVel = -5;
+        verVel = -2;
         yield return new WaitForSeconds(.5f);
         verVel = 0;
     }
