@@ -20,18 +20,20 @@ public class hit : MonoBehaviour
     void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.tag == "Enemy")
-        {
-            //Destroy(gameObject);
-            AudioSource.PlayClipAtPoint(hitSound, transform.position);
-            anim.SetTrigger("death");
+        { 
             DeathMenu.SetActive(true);
+            anim.SetTrigger("death");
+           
+            Destroy(gameObject);
+            AudioSource.PlayClipAtPoint(hitSound, transform.position);
+           
             Death();  
         }
     }
 
     void Death()
     {
-        //isDead = true;
+      
         GetComponent<Score>().OnDeath();
     }
 
