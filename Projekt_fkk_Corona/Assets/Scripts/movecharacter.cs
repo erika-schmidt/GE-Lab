@@ -30,7 +30,7 @@ public class movecharacter : MonoBehaviour
     {
   
         GetComponent<Rigidbody>().velocity = new Vector3(horizVel, verVel, speed);
-        speed = speed * 1.00009f;
+        speed = speed * 1.0009f;
 
         if ((Input.GetKeyDown(moveL)) && (laneNum>1) && (controlLocked == "n"))
         {
@@ -56,7 +56,7 @@ public class movecharacter : MonoBehaviour
         }
         if (Input.GetButtonDown("Submit"))
         {
-            verVel = 2;
+            verVel = 3;
             StartCoroutine(stopJump());
         }
     }
@@ -64,7 +64,7 @@ public class movecharacter : MonoBehaviour
     IEnumerator stopJump()
     {
         yield return new WaitForSeconds(.3f);
-        verVel = -2;
+        verVel = -3;
         yield return new WaitForSeconds(.3f);
         verVel = 0;
     }

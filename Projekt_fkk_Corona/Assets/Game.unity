@@ -6024,7 +6024,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5f95f1b7f1feb254b9f5d86ab55982d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.238
+      value: 0.378
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5f95f1b7f1feb254b9f5d86ab55982d7,
         type: 3}
@@ -16325,19 +16325,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!65 &1620158319
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1620158314}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Size: {x: 0.71, y: 2.31, z: 1}
-  m_Center: {x: 0, y: 1.08, z: 0}
 --- !u!114 &1620158320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16393,7 +16380,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DeathMenu: {fileID: 960217115}
   anim: {fileID: 0}
-  hitSound: {fileID: 8300000, guid: e065bdeb099bbcb4b8a004fe43680042, type: 3}
 --- !u!136 &1620158324
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -16407,7 +16393,7 @@ CapsuleCollider:
   m_Radius: 0.3
   m_Height: 2.02
   m_Direction: 1
-  m_Center: {x: 0, y: 1.22, z: 0}
+  m_Center: {x: 0, y: 1.5, z: 0}
 --- !u!1 &1656370461
 GameObject:
   m_ObjectHideFlags: 0

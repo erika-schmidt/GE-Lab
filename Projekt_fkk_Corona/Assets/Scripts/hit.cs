@@ -7,7 +7,7 @@ public class hit : MonoBehaviour
 {
     public GameObject DeathMenu;
     public Animator anim;
-    public AudioClip hitSound;
+    //public AudioClip hitSound;
 
     //private bool isDead = false;
 
@@ -20,12 +20,13 @@ public class hit : MonoBehaviour
     void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.tag == "Enemy")
-        { 
+        {
+            Debug.Log("sdsds");
             DeathMenu.SetActive(true);
             anim.SetTrigger("death");
            
             Destroy(gameObject);
-            AudioSource.PlayClipAtPoint(hitSound, transform.position);
+            //AudioSource.PlayClipAtPoint(hitSound, transform.position);
            
             Death();  
         }

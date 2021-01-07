@@ -19139,6 +19139,20 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
+--- !u!136 &9205039354580987157
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 475849895529377713}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.84
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.79, z: 0}
 --- !u!1001 &6708065592483777378
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19374,11 +19388,22 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8895332082301186690, guid: 975596db085c664499528058d9437cd7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 975596db085c664499528058d9437cd7, type: 3}
 --- !u!4 &1966509210125595432 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7395594649408908827, guid: 975596db085c664499528058d9437cd7,
+    type: 3}
+  m_PrefabInstance: {fileID: 9072536166797794611}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &475849895529377713 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8895332082301186690, guid: 975596db085c664499528058d9437cd7,
     type: 3}
   m_PrefabInstance: {fileID: 9072536166797794611}
   m_PrefabAsset: {fileID: 0}

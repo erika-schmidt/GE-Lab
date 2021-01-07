@@ -16,6 +16,20 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!136 &8944993413549404872
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5163457043417464870}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.89
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.25, z: 0}
 --- !u!1 &2267472142266082853
 GameObject:
   m_ObjectHideFlags: 0
@@ -48,7 +62,7 @@ Transform:
   - {fileID: 1465920232258960792}
   - {fileID: 6121219755130629887}
   m_Father: {fileID: 6860212725325244487}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!198 &8228709561992664018
 ParticleSystem:
@@ -14408,10 +14422,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 839251323546328215, guid: 90dd0df5519698f488b9e9758e9d2914,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1393629100141589230, guid: 90dd0df5519698f488b9e9758e9d2914,
         type: 3}
       propertyPath: m_Name
       value: Tile6 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489321357962610205, guid: 90dd0df5519698f488b9e9758e9d2914,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4576321660262746981, guid: 90dd0df5519698f488b9e9758e9d2914,
         type: 3}
@@ -14422,6 +14446,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.029
+      objectReference: {fileID: 0}
+    - target: {fileID: 4868474248968581601, guid: 90dd0df5519698f488b9e9758e9d2914,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5222322129309335322, guid: 90dd0df5519698f488b9e9758e9d2914,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 5829203539802969979, guid: 90dd0df5519698f488b9e9758e9d2914,
         type: 3}
@@ -14504,6 +14538,12 @@ GameObject:
 --- !u!4 &6860212725325244487 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5829203539802969979, guid: 90dd0df5519698f488b9e9758e9d2914,
+    type: 3}
+  m_PrefabInstance: {fileID: 1139730235617967932}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5163457043417464870 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5222322129309335322, guid: 90dd0df5519698f488b9e9758e9d2914,
     type: 3}
   m_PrefabInstance: {fileID: 1139730235617967932}
   m_PrefabAsset: {fileID: 0}

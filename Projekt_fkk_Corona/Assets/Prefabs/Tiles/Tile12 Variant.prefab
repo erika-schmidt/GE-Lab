@@ -9515,6 +9515,20 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
+--- !u!136 &8501688194171258956
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8563898906116728682}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.84
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.79, z: 0}
 --- !u!1 &5547248364409731102
 GameObject:
   m_ObjectHideFlags: 0
@@ -19592,6 +19606,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4326629345904085460, guid: 6e90cc7d1b747014695278e5af9550d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 7854584136581967557, guid: 6e90cc7d1b747014695278e5af9550d3,
         type: 3}
       propertyPath: m_Name
@@ -19602,6 +19621,12 @@ PrefabInstance:
 --- !u!4 &7233083940138280430 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3365105211723156304, guid: 6e90cc7d1b747014695278e5af9550d3,
+    type: 3}
+  m_PrefabInstance: {fileID: 5391462796046462654}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8563898906116728682 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4326629345904085460, guid: 6e90cc7d1b747014695278e5af9550d3,
     type: 3}
   m_PrefabInstance: {fileID: 5391462796046462654}
   m_PrefabAsset: {fileID: 0}
