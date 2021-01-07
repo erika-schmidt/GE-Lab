@@ -7,7 +7,7 @@ public class hit : MonoBehaviour
 {
     public GameObject DeathMenu;
     public Animator anim;
-    //public AudioClip hitSound;
+    public AudioClip hitSound;
 
     //private bool isDead = false;
 
@@ -24,11 +24,11 @@ public class hit : MonoBehaviour
             Debug.Log("sdsds");
             DeathMenu.SetActive(true);
             anim.SetTrigger("death");
-           
-            Destroy(gameObject);
-            //AudioSource.PlayClipAtPoint(hitSound, transform.position);
-           
-            Death();  
+
+            //Destroy(gameObject);
+            AudioSource.PlayClipAtPoint(hitSound, transform.position);
+
+            Death();
         }
     }
 

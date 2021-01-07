@@ -171,6 +171,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus_mit_Animation_2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 85817df7fa7f78d43b7191c23db530ae,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85817df7fa7f78d43b7191c23db530ae, type: 3}
 --- !u!4 &2489576823762575735 stripped

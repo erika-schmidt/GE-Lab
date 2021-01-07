@@ -16380,6 +16380,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DeathMenu: {fileID: 960217115}
   anim: {fileID: 0}
+  hitSound: {fileID: 0}
 --- !u!136 &1620158324
 CapsuleCollider:
   m_ObjectHideFlags: 0

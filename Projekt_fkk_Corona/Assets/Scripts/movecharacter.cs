@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 
 public class movecharacter : MonoBehaviour
@@ -30,7 +31,7 @@ public class movecharacter : MonoBehaviour
     {
   
         GetComponent<Rigidbody>().velocity = new Vector3(horizVel, verVel, speed);
-        speed = speed * 1.0009f;
+        speed = speed * 1.00009f;
 
         if ((Input.GetKeyDown(moveL)) && (laneNum>1) && (controlLocked == "n"))
         {
@@ -74,5 +75,15 @@ public class movecharacter : MonoBehaviour
         yield return new WaitForSeconds(.5f);
         horizVel = 0;
         controlLocked = "n";
+    }
+
+    void OnCollisionEnter(Collision other)
+    {
+        if (other.gameObject.tag == "Enemy")
+        {
+            speed = 0;
+            horizVel = 0;
+            verVel = 0;
+        }
     }
 }
