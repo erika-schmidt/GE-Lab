@@ -29,12 +29,15 @@ public class Score : MonoBehaviour
         if (isDead)
             return;
 
-        if (score >= scoreToNextLevel)
-            LevelUp();
+        else
+        {
+            if (score >= scoreToNextLevel)
+                LevelUp();
 
-        score += Time.deltaTime * difficultyLevel;
-        score++;
-        scoreText.text = ((int)score).ToString();
+            score += Time.deltaTime * difficultyLevel;
+            score++;
+            scoreText.text = ((int)score).ToString();
+        }
     }
 
     void LevelUp()

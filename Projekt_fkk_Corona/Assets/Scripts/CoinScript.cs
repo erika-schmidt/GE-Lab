@@ -10,7 +10,7 @@ public class CoinScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GH = GameObject.Find("Canvas").GetComponent<GameHandler>();
+        GH = GameObject.Find("RunningPlayer").GetComponent<GameHandler>();
     }
 
     // Update is called once per frame

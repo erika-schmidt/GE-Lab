@@ -16,7 +16,7 @@ public class MainMenu : MonoBehaviour
     void Start()
     {
         highscoreText.text = "HIGHSCORE: " + (int)PlayerPrefs.GetFloat("Highscore");
-        CoinText.text = "" + (int)PlayerPrefs.GetFloat("Coins");
+        CoinText.text = "" + PlayerPrefs.GetInt("Coins");
     }
 
     // Update is called once per frame
