@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 2581
+  controlID: 117
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 2582
+  controlID: 118
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 2583
+  controlID: 119
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,16 +224,16 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: fa18e964db1be5f419e9fa7ae7d17a52
   m_Gizmos: 1
-  m_SceneIsLit: 0
+  m_SceneIsLit: 1
   m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.291592, y: 2.2720785, z: 29.986248}
+    m_Target: {x: 1.2966309, y: 1.1778564, z: -0.42871094}
     speed: 2
-    m_Value: {x: 5.291592, y: 2.2720785, z: 29.986248}
+    m_Value: {x: 1.2966309, y: 1.1778564, z: -0.42871094}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_SceneViewState:
     showFog: 1
     showMaterialUpdate: 0
-    showSkybox: 0
+    showSkybox: 1
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -279,17 +279,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.005680118, y: 0.061455786, z: 0.00035018878, w: 0.99809736}
+    m_Target: {x: 0.06577029, y: 0.0741677, z: -0.0049015903, w: 0.9950679}
     speed: 2
-    m_Value: {x: -0.0056800973, y: 0.06145556, z: 0.0003501875, w: 0.99809366}
+    m_Value: {x: 0.06576994, y: 0.074167304, z: -0.004901564, w: 0.99506253}
   m_Size:
-    m_Target: 17.01755
+    m_Target: 27.403242
     speed: 2
-    m_Value: 17.01755
+    m_Value: 27.403242
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
@@ -465,7 +465,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7c97fdff52f10000
+      m_ExpandedIDs: 40fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -565,10 +565,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 210}
-    m_SelectedIDs: 4ab70000
-    m_LastClickedID: 46922
-    m_ExpandedIDs: 0000000048b700004ab700004cb700008eb70000aae40000
+    scrollPos: {x: 0, y: 190}
+    m_SelectedIDs: b4b60000
+    m_LastClickedID: 46772
+    m_ExpandedIDs: 00000000b2b60000b4b60000b6b60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -596,7 +596,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000048b700004ab700004cb70000
+    m_ExpandedIDs: 00000000b2b60000b4b60000b6b60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -621,9 +621,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 52f10000
-    m_LastClickedInstanceID: 61778
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000dcba00004ebc0000a8bc00004a38000000000000b8b000006a3e00006c3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -648,7 +648,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 283}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 115
@@ -740,5 +740,5 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: 61778
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
