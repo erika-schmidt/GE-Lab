@@ -5049,6 +5049,7 @@ MonoBehaviour:
   laneNum: 2
   controlLocked: n
   SlideSound: {fileID: 0}
+  HitSound: {fileID: 0}
   ani: {fileID: 0}
 --- !u!108 &224213536
 Light:
@@ -16307,6 +16308,7 @@ MonoBehaviour:
   laneNum: 2
   controlLocked: n
   SlideSound: {fileID: 8300000, guid: f50b5d755a31c1746a7417ab087c0425, type: 3}
+  HitSound: {fileID: 8300000, guid: e065bdeb099bbcb4b8a004fe43680042, type: 3}
   ani: {fileID: 0}
 --- !u!54 &1620158318
 Rigidbody:

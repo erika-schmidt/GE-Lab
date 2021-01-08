@@ -16,6 +16,7 @@ public class movecharacter : MonoBehaviour
     private float speed = 4;
 
     public AudioClip SlideSound;
+    public AudioClip HitSound;
 
     public Animator ani;
 
@@ -84,6 +85,7 @@ public class movecharacter : MonoBehaviour
             speed = 0;
             horizVel = 0;
             verVel = 0;
+            AudioSource.PlayClipAtPoint(HitSound, transform.position);
         }
     }
 }
