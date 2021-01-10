@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: de69e378bed59ba4baf66dc89ed98b0b, type: 3}
+        m_Texture: {fileID: 2800000, guid: b403f28952a9ace4c9f2caf31aa81208, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -36,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 32b29dfb240768247b252c626f7a586c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7d019ae33a47a6d48808207bac4edc02, type: 3}
         m_Scale: {x: 1.92, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LightMap:
@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 32b29dfb240768247b252c626f7a586c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 20859ab149a17d940b1d24138f76b22a, type: 3}
         m_Scale: {x: 1.92, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -52,11 +52,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 7d019ae33a47a6d48808207bac4edc02, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 17c30cfbe366dc74f9f61e965993d0e5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7d019ae33a47a6d48808207bac4edc02, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -81,6 +81,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0, g: 0.16981131, b: 0.055719335, a: 1}
-    - _EmissionColor: {r: 1.0031301, g: 1.4466909, b: 1.1039394, a: 1}
+    - _Color: {r: 0.7294118, g: 0.51370597, b: 0.9811321, a: 1}
+    - _EmissionColor: {r: 0.15718825, g: 1.2342187, b: 0.80298966, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
