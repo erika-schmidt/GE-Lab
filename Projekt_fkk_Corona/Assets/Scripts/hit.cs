@@ -22,7 +22,6 @@ public class hit : MonoBehaviour
         if (other.gameObject.tag == "Enemy")
         {
             Death();
-            Debug.Log("sdsds");
             DeathMenu.SetActive(true);
             anim.SetTrigger("death");
 
